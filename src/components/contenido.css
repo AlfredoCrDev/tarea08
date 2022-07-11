@@ -1,0 +1,22 @@
+.textcentral {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h2{
+    padding-top: 40px;
+}
+
+p{
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border-left: 35px;
+    border-right: 35px;
+    font-size: 18px;
+    padding-bottom: 30px;
+}

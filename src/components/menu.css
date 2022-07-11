@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header__logo-img {
+    width: 140px;
+    height: 130px;
+}
+
+.header__logo-titulo {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header__menu {
+    display: flex;
+    flex-direction: row;
+    padding: inherit;
+    justify-content: space-around;
+    width: 40vw;
+    font-size: 20px;
+  }
+
+
+.footer p{
+    display: block;
+    background-color: #292929;
+    color: #a2a2a2;
+    margin-top: 0px;
+    text-align: center;
+}
